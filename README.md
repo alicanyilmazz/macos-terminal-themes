@@ -1,3 +1,6 @@
+# For the macos terminal changes integration on visual studio code
+https://saiankit30.medium.com/how-to-change-the-integrated-terminal-in-vs-code-from-default-to-pro-iterm-ish-5c958e13aada
+
 # macos-terminal-themes
 
 # Color themes for default macOS Terminal.app
